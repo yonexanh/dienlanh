@@ -1,0 +1,548 @@
+Uri: http://dienlanh.maugiaodien.com/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/author/admin/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/author/admin/feed/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://dienlanh.maugiaodien.com/bao-gia-dich-vu-sua-chua-dien-lanh-2/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\bao-gia-dich-vu-sua-chua-dien-lanh-2\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/bao-gia-dich-vu-sua-chua-dien-lanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\bao-gia-dich-vu-sua-chua-dien-lanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/bao-hanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\bao-hanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/category/tin-tuc/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/category/tin-tuc/feed/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://dienlanh.maugiaodien.com/comments/feed/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://dienlanh.maugiaodien.com/feed/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://dienlanh.maugiaodien.com/gioi-thieu/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/lap-dat-may-lanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\lap-dat-may-lanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/lien-he/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/nen-chon-hang-dieu-hoa-nao-de-lap-dat-trong-khong-gian-nha/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\nen-chon-hang-dieu-hoa-nao-de-lap-dat-trong-khong-gian-nha\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/quy-trinh-bao-duong-dieu-hoa-dung-tieu-chuan/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\quy-trinh-bao-duong-dieu-hoa-dung-tieu-chuan\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/sua-chua-may-giat/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\sua-chua-may-giat\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/sua-chua-may-lanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\sua-chua-may-lanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/sua-chua-tu-lanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\sua-chua-tu-lanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/sua-chua-tu-mat/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\sua-chua-tu-mat\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/sua-may-nong-lanh/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\sua-may-nong-lanh\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/ve-sinh-may-giat/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\ve-sinh-may-giat\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/ve-sinh-may-lanh-va-bom-ga/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\ve-sinh-may-lanh-va-bom-ga\index.htm
+Content Type: text/html
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.0.3
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome-child/style.css?ver=3.0
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2019/05/icon-chat-messenger.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2019\05\icon-chat-messenger.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2019/05/icon-chat-zalo.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2019\05\icon-chat-zalo.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2019/05/phone-icon.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2019\05\phone-icon.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/100-150x150.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\100-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/anh3-150x150.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\anh3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/anh5-150x150.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\anh5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/anh5.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\anh5.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/anh7-150x150.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\anh7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/bg-footer.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/get_in_touch.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\get_in_touch.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh1.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh1.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh2.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh2.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh3.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh3.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh4.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh4.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh5.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh5.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2020/02/lddh6.jpg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2020\02\lddh6.jpg
+Content Type: image/jpeg
+
+Uri: http://dienlanh.maugiaodien.com/wp-content/uploads/2022/04/logo.png
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-content\uploads\2022\04\logo.png
+Content Type: image/png
+
+Uri: http://dienlanh.maugiaodien.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://dienlanh.maugiaodien.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://dienlanh.maugiaodien.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://dienlanh.maugiaodien.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://dienlanh.maugiaodien.com/wp-includes/wlwmanifest.xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-gia-dich-vu-sua-chua-dien-lanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-gia-dich-vu-sua-chua-dien-lanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-gia-dich-vu-sua-chua-dien-lanh-2%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-gia-dich-vu-sua-chua-dien-lanh-2%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-hanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fbao-hanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fgioi-thieu%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fgioi-thieu%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Flap-dat-may-lanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Flap-dat-may-lanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Flien-he%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Flien-he%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fnen-chon-hang-dieu-hoa-nao-de-lap-dat-trong-khong-gian-nha%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fnen-chon-hang-dieu-hoa-nao-de-lap-dat-trong-khong-gian-nha%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fquy-trinh-bao-duong-dieu-hoa-dung-tieu-chuan%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fquy-trinh-bao-duong-dieu-hoa-dung-tieu-chuan%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-may-giat%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-may-giat%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-may-lanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-may-lanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-tu-lanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-tu-lanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-tu-mat%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-chua-tu-mat%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-may-nong-lanh%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fsua-may-nong-lanh%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fve-sinh-may-giat%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fve-sinh-may-giat%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fve-sinh-may-lanh-va-bom-ga%2F
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fdienlanh.maugiaodien.com%2Fve-sinh-may-lanh-va-bom-ga%2F&format=xml
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/categories/4
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/23
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/27
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/359
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\359
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/386
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\386
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/417
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\417
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/423
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\423
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/427
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\427
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/440
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\440
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/467
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\467
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/698
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\698
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/701
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\701
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/pages/993
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\pages\993
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/posts/774
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\posts\774
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/posts/777
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\posts\777
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/posts/801
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\posts\801
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/posts/805
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\posts\805
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/wp-json/wp/v2/users/1
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://dienlanh.maugiaodien.com/xmlrpc.php?rsd
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fdienlanh.maugiaodien.com%252Fbao-gia-dich-vu-sua-chua-dien-lanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fdienlanh.maugiaodien.com%252Fbao-gia-dich-vu-sua-chua-dien-lanh-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fdienlanh.maugiaodien.com%252Fnen-chon-hang-dieu-hoa-nao-de-lap-dat-trong-khong-gian-nha%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fdienlanh.maugiaodien.com%252Fquy-trinh-bao-duong-dieu-hoa-dung-tieu-chuan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: D:\New folder (3)\dienlanh.maugiaodien.com\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
